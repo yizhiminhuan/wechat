@@ -250,7 +250,7 @@
 #u19 {
   position:absolute;
   left:123px;
-  top:530px;
+  top:471px;
   visibility:hidden;
 }
 #u19_state0 {
@@ -293,25 +293,6 @@
 }
 #u22 {
   position:absolute;
-  left:245px;
-  top:471px;
-  visibility:hidden;
-}
-#u22_state0 {
-  position:relative;
-  left:0px;
-  top:0px;
-  background-image:none;
-}
-#u22_state0_content {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1px;
-  height:1px;
-}
-#u23 {
-  position:absolute;
   left:0px;
   top:59px;
   width:122px;
@@ -321,24 +302,43 @@
   font-style:normal;
   font-size:16px;
 }
-#u23_img {
+#u22_img {
   position:absolute;
   left:0px;
   top:0px;
   width:122px;
   height:60px;
 }
-#u24 {
+#u23 {
   position:absolute;
   left:2px;
   top:22px;
   width:118px;
   word-wrap:break-word;
 }
-#u25 {
+#u24 {
+  position:absolute;
+  left:245px;
+  top:471px;
+  visibility:hidden;
+}
+#u24_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-image:none;
+}
+#u24_state0_content {
   position:absolute;
   left:0px;
   top:0px;
+  width:1px;
+  height:1px;
+}
+#u25 {
+  position:absolute;
+  left:0px;
+  top:59px;
   width:122px;
   height:60px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
@@ -362,10 +362,10 @@
 }
 #u27 {
   position:absolute;
-  left:75px;
-  top:690px;
-  width:304px;
-  height:114px;
+  left:0px;
+  top:0px;
+  width:122px;
+  height:60px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
@@ -375,10 +375,35 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:122px;
+  height:60px;
+}
+#u28 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:118px;
+  word-wrap:break-word;
+}
+#u29 {
+  position:absolute;
+  left:75px;
+  top:690px;
+  width:304px;
+  height:114px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+}
+#u29_img {
+  position:absolute;
+  left:0px;
+  top:0px;
   width:304px;
   height:114px;
 }
-#u28 {
+#u30 {
   position:absolute;
   left:0px;
   top:0px;
